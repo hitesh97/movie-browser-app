@@ -1,0 +1,9 @@
+.chipsList {
+  display: flex;
+  flex-wrap: wrap;
+}
+.chip {
+  background-color: rgba(0, 123, 255, 0.5);
+  font-size: 100%;
+  margin: 2px;
+}
